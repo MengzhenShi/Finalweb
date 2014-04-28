@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Arvo:400,700,400italic);
 
-/* MeyerWeb Reset */
+
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -28,9 +28,9 @@ time, mark, audio, video {
 body {
   padding:10px 50px 0 0;
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 14px;
+	font-size: 17px;
 	color: #232323;
-	background-color: #FBFAF7;
+	background-color: lightblue;
 	margin: 0;
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
