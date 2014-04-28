@@ -25,6 +25,16 @@ time, mark, audio, video {
 
 /* Base text styles */
 
+body.home{
+ padding:10px 50px 7px 500px;
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	color: #232323;
+	background-color: lightblue;
+	margin: 0;
+	line-height: 1.8em;
+	-webkit-font-smoothing: antialiased;
+
 body {
   padding:10px 50px 0 0;
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
