@@ -35,13 +35,13 @@ h1, h2, h3, h4, h5, h6, p, dl {
 h1 {   
   clear: both;
   font: 400 1.9em georgia, serif;
-  color: #532406;  
+  color: white;  
 }
 
 h2 {
   clear: both;
   font: 400 1.3em georgia, serif;
-  color: #61804E;
+  color: white;
 }
 
 h3 {
