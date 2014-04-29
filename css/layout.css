@@ -99,21 +99,21 @@ ul#menu li a {
   text-align: center;
   text-decoration: none;
   
-  color: 8F0881;
+  color: ＃8F0881;
   border-bottom: 1px solid #D3F1B6;
 }
 
 ul#menu li a:visited {
-  background-color: 8F0881;
+  background-color: ＃8F0881;
 }
 
 ul#menu li a:hover {
-  color: 8F0881;
+  color: ＃8F0881;
   background: url(../img/bg/menu.gif) repeat-x bottom left;
 }
 
 ul#menu li a.here {
-  color: 8F0881;
+  color: ＃8F0881;
   background: url(../img/bg/menu.gif) repeat-x bottom left;
 }
 
